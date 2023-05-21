@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 This is my Github profile!</h1>
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/859807/screenshots/6284055/benny_typing_1.gif" alt="Gif Header" style="height:200px;">
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" alt="Gif Header" style="height:400px;">
 </div>
 
 <h3 align="center">🚀Languages and Tools:</h3>
